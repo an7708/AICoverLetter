@@ -1,5 +1,4 @@
-## **AI Cover Letter Generator **
-
+## AI Cover Letter Generator
 ###  Project Overview
 
 AI Cover Letter Generator is a full-stack web application that automatically generates professional, job-specific cover letters using Google Gemini AI. Users can enter job details, upload their resume, and receive a tailored cover letter instantly.
