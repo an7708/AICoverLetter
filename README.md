@@ -189,24 +189,4 @@ npx kill-port 5000
 
 ---
 
-### **📈 Future Improvements**
-
-* Authentication system
-* Multiple resume formats (DOCX, TXT)
-* Cover letter templates
-* Save history
-* Export as PDF
-* ATS score checker
-
----
-
-### **🤝 Contribution**
-
-Pull requests are welcome. For major changes, open an issue first.
-
----
-
-### **📜 License**
-
-MIT License
 
