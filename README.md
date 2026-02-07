@@ -1,4 +1,4 @@
-## **AI Cover Letter Generator – README**
+## **AI Cover Letter Generator **
 
 ###  Project Overview
 
