@@ -121,7 +121,7 @@ Or use Live Server in VS Code.
 
 ---
 
-### ** How It Works**
+### How It Works
 
 1. User enters:
 
